@@ -28,13 +28,16 @@ bivariate analysis cat vs cat | cat vs num | num vs num
 
 ---
 
-#performing statistical methods and ML Methods  :
+# performing statistical methods and ML Methods  :
  
 T-test: Online Delivery vs. Rating
 Perform one-way ANOVA
 **find skewed values and prep data for RandomForestRegressor
 **
+
 ---
 
 **using RandomForestRegressor to find the answer which is the most infulancal factor for voting and popularty
-****Can we segment restaurants into distinct categories based on their operational and menu attributes to better understand the market?•we need to use Clustering for segmentation**
+**
+**Can we segment restaurants into distinct categories based on their operational and menu attributes to better understand the market?•we need to use Clustering for segmentation**
+**
