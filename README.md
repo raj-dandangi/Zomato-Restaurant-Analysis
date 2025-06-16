@@ -54,4 +54,6 @@ Perform one-way ANOVA
 using RandomForestRegressor to find the answer which is the most infulancal factor for voting and popularty <br>
 
 Can we segment restaurants into distinct categories based on their operational and menu attributes to better understand the market?•we need to use Clustering for segmentation**
+---
+# a simple easy to understand presentation using power-BI
 
